@@ -1,12 +1,7 @@
-# Awesome Landing Page
+# Reference Landing Page 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+- learn : https://github.com/sindresorhus/awesome
 
-## 🚀 A series of beautiful and practical landing page templates
-
-There are a lot of beautiful landing page templates. They are built using various front-end technologies. I hope you like them.
-
-If you want to submit your page, please fork this project and submit a PR.
 
 ### Open source project
 
